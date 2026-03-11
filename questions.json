@@ -1,0 +1,25 @@
+{
+    "survey_title": "Digital Dependency & Social Detox Potential",
+    "questions": [
+        {"id": 1, "text": "How often do you think about social media when not using it?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 2, "text": "How frequently do you use social media to escape from negative feelings?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 3, "text": "Do you find yourself 'scrolling' without a specific purpose or goal?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 4, "text": "How often do you feel a 'phantom vibration' (thinking your phone alerted you)?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 5, "text": "Do you feel you need to spend more time online to feel satisfied?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 6, "text": "How often have you tried to spend less time on social media but failed?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 7, "text": "Do you find yourself staying online longer than you originally intended?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 8, "text": "How frequently do you check notifications immediately after waking up?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 9, "text": "Do you feel restless or anxious when you are unable to check your accounts?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 10, "text": "How difficult would you find an emotional adjustment to a 24-hour detox?", "options": {"Very Easy": 0, "Easy": 1, "Moderate": 2, "Difficult": 3, "Very Difficult": 4}},
+        {"id": 11, "text": "How often do you feel 'FOMO' when seeing others' posts?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 12, "text": "Do you feel a drop in self-esteem if a post gets fewer likes than expected?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 13, "text": "Has social media use caused you to neglect schoolwork or responsibilities?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 14, "text": "How often have you had arguments with family/friends over phone use?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 15, "text": "How often do you lose sleep because of late-night social media browsing?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 16, "text": "Have you ever hidden the amount of time you spend online from others?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 17, "text": "How often do you experience 'brain fog' after long scrolling sessions?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 18, "text": "Do you use social media while eating, even when with other people?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 19, "text": "Do you feel physical strain (neck pain, eye fatigue) from device use?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}},
+        {"id": 20, "text": "How often do you prioritize digital interactions over face-to-face meetings?", "options": {"Never": 0, "Rarely": 1, "Sometimes": 2, "Often": 3, "Very Often": 4}}
+    ]
+}
